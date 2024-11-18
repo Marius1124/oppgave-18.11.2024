@@ -3,6 +3,6 @@ const person = {
   lastName: "B",
   age: 26,
   hobbies: ["Gaming, Drawing, Reading, Jogging"],
-  city: "Husnes",
+  city: "Bergen",
 };
 console.log(person);
